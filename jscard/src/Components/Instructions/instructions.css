@@ -1,0 +1,12 @@
+.Info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 40px;
+  border-left: 2px solid black;
+  min-height: 100vh;
+}
+
+.Info div {
+  margin-left: 10px;
+}
