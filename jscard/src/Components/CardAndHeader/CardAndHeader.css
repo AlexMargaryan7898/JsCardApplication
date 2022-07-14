@@ -1,0 +1,5 @@
+.firstCol {
+  flex: 350%;
+  display: flex;
+  flex-direction: column;
+}
